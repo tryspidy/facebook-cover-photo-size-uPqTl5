@@ -1,0 +1,8 @@
+Facebook Cover, read it as Width x Height
+By Pixels:                              By Centimeters:
+PC     - 820 x 312                      PC     - 21.69 x 9.53
+Mobile - 640 x 360                      Mobile - 16.93 x 8.26
+
+By Inches:
+PC     - 8.54 x 3.75
+Mobile - 6.67 x 3.25
